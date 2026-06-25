@@ -1,13 +1,13 @@
 # hey, i'm ngwg
 
-15 · building things that seemed too hard to build
+15 · building things
 
 ---
 
-i mostly write **Swift**, **C++**, and **Lua** — whatever the project needs.  
-right now i'm working on an AR piano trainer for iPhone that uses LiDAR and ARKit to overlay a virtual keyboard on a real piano. no MIDI, no shortcuts — just computer vision doing actual work.
+i mostly write **Swift**, **C++**, and **Lua** whatever the project needs.  
+right now i'm working on an AR piano trainer for iPhone that uses LiDAR and ARKit to overlay a virtual keyboard on a real piano. no MIDI, no shortcuts just computer vision doing actual work.
 
-things i care about: keeping dependencies minimal, making stuff that runs on real hardware, and not shipping until it actually works.
+things i care about: keeping dependencies minimal, making stuff, and not shipping until it actually works.
 
 ---
 
