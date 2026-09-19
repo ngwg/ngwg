@@ -2,8 +2,6 @@
 
 16 · building things
 
----
-
 i mostly write **Swift**, **C++**, and **Lua** whatever the project needs.  
 
 ---
