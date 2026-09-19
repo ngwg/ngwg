@@ -5,9 +5,6 @@
 ---
 
 i mostly write **Swift**, **C++**, and **Lua** whatever the project needs.  
-right now i'm working on an AR piano trainer for iPhone that uses LiDAR and ARKit to overlay a virtual keyboard on a real piano. no MIDI, no shortcuts just computer vision doing actual work.
-
-things i care about: keeping dependencies minimal, making stuff, and not shipping until it actually works.
 
 ---
 
@@ -32,7 +29,3 @@ things i care about: keeping dependencies minimal, making stuff, and not shippin
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ngwg&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
-
----
-
-> still figuring it out, but that's kind of the point
