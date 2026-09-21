@@ -21,9 +21,5 @@
 <h3 align="center">stats</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ngwg&theme=tokyonight&hide_border=true&background=1a1b27&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" />
+  <img src="https://streak-stats.demolab.com?user=ngwg&background=00000000&hide_border=true&stroke=30363d&ring=7aa2f7&fire=7aa2f7&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=7aa2f7&sideLabels=8b949e&dates=00000000&card_width=460" />
 </p>
