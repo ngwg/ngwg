@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <samp>open to freelance work &amp; development opportunities</samp>
+</p>
+
+<p align="center">
   <a href="https://discord.com/users/1400531535467253833"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <img src="https://img.shields.io/github/followers/ngwg?style=for-the-badge&logo=github&label=followers&color=7aa2f7&labelColor=1a1b27" />
   <img src="https://komarev.com/ghpvc/?username=ngwg&style=for-the-badge&color=7aa2f7&label=views" />
