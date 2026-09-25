@@ -8,6 +8,22 @@
 
 <p align="center">
   <samp>open to freelance work &amp; development opportunities</samp>
+  <br />
+  <samp>contact</samp>
+</p>
+
+<p align="center">
+  <a href="https://discord.com/users/1400531535467253833">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Contact me on Discord" />
+  </a>
+  <a href="mailto:urrencymail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-urrencymail%40gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email urrencymail@gmail.com" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ngwg?style=for-the-badge&logo=github&label=followers&color=7aa2f7&labelColor=1a1b27" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=ngwg&style=for-the-badge&color=7aa2f7&label=views" alt="Profile views" />
 </p>
 
 <p align="center">
